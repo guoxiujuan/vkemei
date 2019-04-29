@@ -1,0 +1,951 @@
+﻿
+/*Common For Max 960*/
+@media only screen and (max-width: 1399px) {
+    .wp2{width: 98%;}
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+    .f-mlist1 {
+        padding: 43px 20px 0;
+    }
+    .f-mlist1 li {
+        padding: 0 20px;
+    }
+
+    .m-tech .slick-slider {
+        padding: 0 50px;
+    }
+
+    .m-team {margin: 0 50px;}
+}
+
+/*Common For Max 960*/
+@media only screen and (max-width: 1600px) {
+    .bigimg .prev{left: 15px;}
+    .bigimg .next{right: 15px;}
+    .bigimg .slick-list{width: 80%;}
+    .bigimg .box{width: 100%;}
+    .bigimg{margin-top: 20px;}
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro2 .txt{width: 58.66%;}
+
+}
+
+/*Common For Max 960*/
+@media only screen and (max-width: 1366px) {
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro2 .txt{width: 56.66%;}
+    .m-list1{margin: 0 -5px;}
+    
+    /*
+    -----------------[3科技美肤列表]--------------*/
+    .ul-list1 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+/*Common For Max 960*/
+@media only screen and (max-width: 1199px) {
+    .wp{width: 98%;}
+    .space{padding-top: 60px;}
+    /*******************************
+        -------[=柚子]-------
+    ********************************/
+    .y-imgbox1{display: none;}
+    .phon-y-imgbox1{display: block;padding: 20px 10px 0 10px;}
+    .phon-y-imgbox1 ul{margin:15px 0 15px -20px;}
+    .phon-y-imgbox1 li{text-align: center;float: left;width: 33.33%;margin-bottom: 15px;}
+    .phon-y-imgbox1 .box{margin-left: 20px;}
+    .phon-y-imgbox1 .img{position: relative;padding-top: 78%;overflow: hidden;}
+    .phon-y-imgbox1 .img img{position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+    .phon-y-imgbox1 p{padding-top: 10px;}
+    .phon-y-imgbox1 p a{font-size: 18px;}
+    .phon-y-imgbox1 li span{display: block;font-size: 14px;padding-top: 10px;
+        height: 39px;overflow: hidden;}
+    .phon-y-imgbox1 .box:hover p a,
+    .phon-y-imgbox1 .box:hover span,
+    .phon-y-imgbox1 .box:active p a,
+    .phon-y-imgbox1 .box:active span{color:#e60012;}
+    .phon-y-imgbox1 .box:hover .img img,.phon-y-imgbox1 .box:active .img img{
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1); 
+        -ms-transform: scale(1.1); 
+        -o-transform: scale(1.1); 
+        transform: scale(1.1);
+    }
+    .new-info{margin-top: 50px;}
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+
+    #hd {
+        height: 50px;
+        line-height: 50px;
+    }
+    .logo {
+        height: 50px;
+        margin-left: 0;
+    }
+    #hd .hdr {margin-right: 0;}
+    .g-share {margin-left: 0;}
+    .nav li {
+        margin: 0 20px 0;
+    }
+    .nav li:last-child .sub {left: -167px;}
+    .nav .sub {
+        padding-top: 0;
+        min-width: 504px;
+    }
+    .nav .sub dd {margin-right: 20px;}
+
+    #banner .pic {
+        height: 0;
+        padding-top: 52%;
+    }
+    #banner .slick-dots {bottom: 10px;}
+
+    .f-cont {
+        margin-right: 0;
+        width: 42%;
+        float: left;
+    }
+    .f-mess {
+        float: right;
+        width: 58%;
+    }
+    .f-mess .text {
+        width: 32%;
+        margin-right: 2%;
+    }
+    
+    .g-tit1,.g-tit2 {
+        font-size: 26px;
+    }
+    .g-tit2 em{font-size: 13px;}
+
+    .index-media {
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+    .index-media .g-tit1 {margin-bottom: 30px;}
+    .m-media ul {
+        padding: 0 20px 20px;
+    }
+    .m-media li .con {margin: 0 10px;}
+    .m-media .date {
+        font-size: 26px;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+    .m-media li .con:hover .date{
+        margin-bottom: 10px;
+    }
+    .m-media:after {
+        top: 41px;
+    }
+
+    .f-mlist1 li {padding: 0 10px;}
+    .index-welc {
+        padding: 30px 0;
+    }
+
+    .index-tech {
+        padding: 30px 0 0;
+    }
+    .index-tech .g-tit1 {
+        margin-bottom: 20px;
+    }
+    .m-tech a {margin: 0 10px 30px;}
+
+    .m-team {margin: 0 30px;}
+    .m-team .item {
+        padding: 50px 50px 0;
+    }
+    .m-team .pic {margin-right: 20px;}
+    .m-team .txt h3 {
+        font-size: 20px;
+    }
+
+    /*******************************
+        -------[=青橙]-------
+    ********************************/
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro1{padding-top: 40px;}
+    .m-intro1 .video{position: relative;left: 0;top: 0;margin-top: 15px;width: 100%;height: auto;}
+    .m-intro1 .con1{padding-right: 35px;width: 38%;}
+    .m-intro1 .con2{width: 62%;}
+    .m-intro1 .con1 .txt{margin-top: 20px;}
+    .m-intro1 .pic{margin-bottom: 16px;}
+    .m-intro1-1 .pic{margin-bottom: 0;}
+    .m-intro2 .txt{padding: 30px 10px 0;}
+    .m-intro1 .txt p{margin-bottom: 20px;}
+    .m-intro1-1 .txt{margin-top: 0;}
+    .m-intro1 .txt h3{font-size: 22px;}
+    .m-intro2 .txt p{margin-bottom: 20px;}
+    .m-culture{padding: 40px 0;}
+    .m-advan{padding-bottom: 60px;}
+    .m-list2 .txt p br{display: none;}
+
+    /*
+    -----------------[6联系我们]--------------*/
+    .m-contact1{padding-top: 30px;margin-bottom: 30px;}
+    .m-contact1 .con{padding: 45px 10px 0;}
+    .m-map .txt{right: 10px;}
+    .m-join{padding: 30px 0 40px;}
+    .m-list3{padding: 25px 80px 20px;}
+    #scrollBar{display: none !important;position: static;}
+    #scrollBox{margin-right: 8px;width: auto;height: 500px;overflow-y:auto;}
+    #scrollObj{position: static;margin-right: 20px;}
+    #scrollBox::-webkit-scrollbar {
+        width: 5px;
+    }
+    #scrollBox::-webkit-scrollbar-track {
+        background: #e5e5e5;
+    }
+    #scrollBox::-webkit-scrollbar-thumb {
+        background: #393333;
+    }
+    #scrollBox::-webkit-scrollbar-thumb:window-inactive {
+        background: #393333;
+    }
+
+
+
+    /*******************************
+        -------[=苹果]-------
+    ********************************/
+    .wp{width: 98%;}
+    .dl-list{margin-top: 20px;}
+    .dl-list .con{margin: 0 5px 10px;padding: 10px;}
+    .dl-list li .pic img {
+        width: 174px;
+        height: 192px;
+        margin-top: 10px;
+    }
+    .dl-list li .txt {
+        padding-left: 190px;
+        padding-top: 15px;
+    }
+    .dl-list2 .con{margin: 40px 20px 10px;}
+    .ul-list2{margin: 24px 0 17px -2px;}
+    .m-inviron{margin-top: 60px;}
+    
+    .ul-list1 {
+        margin-top: 20px;
+    }
+
+}
+
+
+
+/*Common For Max 768*/
+@media only screen and (max-width: 959px) {
+    /*******************************
+        -------[=柚子]-------
+    ********************************/
+    .paddingbox1{padding:0 50px;}
+    .m-page .col-l{width: 67%;}
+    .bigimg .arrow{width: 48px;padding-top: 7px;}
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+    .menuBtn{display: block;}
+
+    #hd .g-share {display: none;}
+    .nav{
+        display: none;
+        position: absolute;left: 0;right: 0;top:100%;z-index: 999;
+        background: rgba(82,72,80,.7);
+    }
+    .nav li{
+        float: none;margin: 0;
+        border-bottom: 1px rgba(255,255,255,.3) solid;
+    }
+    .nav li:first-child {margin: 0;}
+    .nav .v1{
+        display: block;width: 100%;
+        line-height: 35px;text-align: center;color: #fff;
+    }
+    .nav .sub{
+        position: static;
+        min-width: 1px;
+    }
+    .nav .sub dd{float: none;margin: 0;}
+    .nav .sub dd a{display: block;padding: 0;text-align: center;color: #fff;}
+
+
+    #fd .f-top {padding: 20px 0;}
+    #fd .f-copy{padding: 10px;}
+    .f-mess ,.f-cont{
+        float: none;
+        width: 100%;
+        padding: 0 10px;
+        margin-bottom: 10px;
+    }
+    .f-addr{
+        float: left;
+        width: 70%;
+    }
+    #fd .g-share,#fd .f-ma{
+        width: 30%;
+        float: right;
+    }
+    #fd .f-ma img{margin-left: 10px;}
+
+
+    .f-mess .inp {
+        margin-bottom: 10px;
+    }
+    .f-mess .text {
+        height: 30px;
+        padding-bottom: 0;
+    }
+    .f-mess .sub {
+        margin: 15px auto 0;
+    }
+
+    .g-tit1, .g-tit2 {
+        font-size: 22px;
+    }
+    
+    .index-welc {
+        padding: 20px 0;
+    }
+    .index-welc .g-tit1 {padding-top: 25px;}
+    .f-mlist1 {padding: 20px 20px 0;}
+    .f-mlist1 li {padding: 0 5px;}
+    .f-mlist1 h3{font-size: 20px;}
+    .f-mlist1 h3 em {
+        padding-top: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    
+    .index-tech {
+        padding: 20px 0 0;
+    }
+    .m-tech a {
+        margin: 0 5px 20px;
+    }
+    .m-tech p {
+        font-size: 14px;
+        line-height: 40px;
+        padding: 0;
+    }
+    .m-tech p span{margin-top: 12px;}
+    
+    .m-team .item {padding: 50px 30px 0;}
+    .m-team .pic img {
+        width: 208px;
+        height: 228px;
+    }
+    .m-team .txt {
+        padding-top: 30px;
+    }
+    .m-team .txt em {
+        font-size: 120px;
+        top: 0;
+    }
+    .m-team .item:hover .txt em {top: 25px;}
+    .m-team .txt h3 {
+        font-size: 18px;margin-bottom: 0;
+    }
+    .m-team .txt span {
+        margin-bottom: 10px;
+    }
+    .m-team .a-btn01 {
+        margin-top: 10px;
+    }
+
+
+    /*******************************
+        -------[=青橙]-------
+    ********************************/
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro1{padding-top: 20px;padding-left: 10px;}
+    .m-intro1 .con1,.m-intro1 .con2{width: 50%;}
+    .m-intro1 .con1{padding-right: 20px;}
+    .m-intro1 .con2{padding-right: 25px;}
+    .m-intro1 .pic{margin-bottom: 12px;}
+    .m-intro1 .pic .img2{right: -22px;height: 45px;}
+    .m-intro1 .txt h3{margin-bottom: 10px;font-size: 20px;}
+    .m-intro1 .txt p{margin-bottom: 12px;padding-right: 0;}
+    .m-intro1-1{padding: 20px 10px 0;}
+    .m-intro1-1 .pic{margin-right: 20px;margin-bottom: 0;width: 48%;}
+    .m-intro1 .con1 .txt{margin-top: 10px;padding-bottom: 20px;}
+    .m-culture{padding: 20px 0;}
+    .m-list1{padding-top: 20px;}
+    .m-list1 .pic h3{font-size: 18px;}
+    .m-list1 .txt{padding: 10px 0;}
+    .m-list1 .txt h3{margin-bottom: 5px;line-height: 26px;font-size: 18px;}
+    .m-list1 .txt p{height: 44px;line-height: 22px;}
+    .m-intro2 .pic{width: 50%;}
+    .m-intro2 .txt{width: 50%;padding-left: 20px;line-height: 1.8;}
+    .m-intro2 .txt .g-tit2{margin-bottom: 15px;}
+    .m-intro2 .txt p{margin-bottom: 12px;}
+    .m-advan{padding: 30px 0;}
+    .m-list2{padding-top: 25px;}
+
+
+
+    /*
+    -----------------[6联系我们]--------------*/
+    .m-contact1{padding-top: 20px;}
+    .m-contact1 .con{padding-top: 30px;}
+    .m-contact1 .con .txt li{margin-bottom: 22px;}
+    .m-map{height: 500px;}
+    .m-map #map{height: 500px;}
+    .m-map .txt{padding-top: 20px;width: 320px;height: 500px;}
+    .m-map .txt ul li{padding: 15px 20px 15px 0;}
+    .m-map .txt li h3{margin-bottom: 15px;}
+    #scrollBox{margin-top: 20px;height: 400px;}
+    .m-contact1 .con .pic p{font-size: 16px;}
+    .m-join{padding: 20px 0 30px;}
+    .m-pop .con1{top: 50%;left: 10px;right: 10px;margin-left: 0;padding: 36px 0 20px 20px;width: auto;
+        transform:translate(0,-50%);
+        -webkit-transform:translate(0,-50%);
+        -moz-transform:translate(0,-50%);
+        -o-transform:translate(0,-50%);
+        -ms-transform:translate(0,-50%);
+    }
+    .m-intro3 .txt p span{margin-right: 30px;}
+
+
+    /*******************************
+        -------[=苹果]-------
+    ********************************/
+    .ul-list1 li .con{margin: 0 10px 20px;}
+    .ul-list1 li .btn{margin: 20px auto 15px;}
+
+    .dl-list li{width: 100%; float: none; }
+
+    .dl-list li p{height: auto;margin: 10px 0;}
+    .dl-list li h3 a{font-size: 18px;}
+    .ul-list2 .con{margin: 0 5px 0;}
+    .ul-list2{margin: 15px -4px 0;}
+    .dl-list2 .con{margin: 40px 0 10px;}
+    .m-partner .item .con{padding: 0 60px;}
+    .m-partner .item .pic{width: 25%;}
+    
+    .m-partner .item .pic:hover div{-moz-transform: scale(1.1) ;-webkit-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);}
+    .m-partner .item .pic{height: 100px;}
+    .m-partner .slide{background: none;}
+    .m-partner .item .pic,.m-partner .item .con .pic:nth-child(2n){border:none;}
+    .dl-list2 .con dd{padding-left: 460px;}
+    .dl-list2 dl:nth-child(2n+1) .con dd{padding-right: 460px;}
+    .m-partner .item .pic:hover{box-shadow:0 0 0;}
+    .m-inviron{margin-top: 10px;}
+    .m-partner .item .pic{width: 50%;}
+    .m-partner .slick-prev{left: 0; margin-left: 0; top: 50%; margin-top: -25px; width: 50px; height: 50px;}
+    .m-partner .slick-next{right:0; margin-right: 0; top: 50%;margin-top: -25px;  width: 50px; height: 50px;}
+
+
+
+}
+
+
+
+/*Common For Max 480*/
+@media only screen and (max-width: 767px) {
+    /*******************************
+        -------[=柚子]-------
+    ********************************/
+    #bd{overflow: hidden;}
+    .con-ban{padding-top: 30%;margin-top: 60px;background-position: center top;}
+    .phon-y-imgbox1 ul{margin-left: -10px;}
+    .phon-y-imgbox1 li{width: 50%;}
+    .phon-y-imgbox1 .box{margin-left: 10px;}
+    .phon-y-imgbox1 p a{font-size: 16px;}
+    .paddingbox1{padding:0 10px;}
+    .new-info{margin-top: 20px;}
+    .new-info .con{line-height: 22px;}
+    .new-info .con img{margin: 10px 0;}
+    .new-info .con{margin-bottom: 15px;}
+    .m-page .col-l{float: none;width: 100%;}
+    .m-page .col-r{float: none;width: 100%;}
+    .m-page{padding: 12px 0;}
+    .new-info .tit{padding-bottom: 10px;}
+    .new-info .tit h1{font-size: 18px;}
+    .new-info .tit h1 span{font-size: 16px;padding-top: 8px;}
+    .bigimg .box{font-size: 14px;}
+    .bigimg .box p{padding-top: 10px;}
+    .bigimg .slick-list{width: 74%;}
+    .bigimg .prev{left: 5px;}
+    .bigimg .next{right: 5px;}
+    .con-ban .wp{height: 100%;position: absolute;width: 100%;
+        top: 0;left: 0;}
+    .con-ban .g-tit2{bottom: auto;top: 50%;left: 25%;
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);}
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+    #fd .f-top {padding: 10px 0;}
+    .f-mess textarea {
+        height: 100px;
+    }
+    .f-cont{
+        text-align: center;
+        font-size: 13px;line-height: 20px;
+    }
+    .f-addr,#fd .g-share, #fd .f-ma {
+        float: none;
+        width: 100%;
+    }
+
+    .f-addr h3 {
+        font-size: 16px;text-align: center;
+    }
+    .f-addr h3:after {
+        left: 50%;margin-left: -10px;
+    }
+    #fd .g-share a {margin: 0 5px 0;}
+    #fd .f-ma img{margin: 0 auto;}
+    #fd .f-copy{text-align: center;padding: 5px 10px;}
+    #fd .f-copy span{display: block;float: none;}
+
+    .float-bar{display: none!important;}
+
+    .g-tit1,.g-tit2 {font-size: 20px;}
+    .g-tit2 em {
+        line-height: 24px;
+        padding-left: 20px;
+    }
+    
+    .index-media {
+        padding: 20px 0 10px;
+    }
+    .g-tit1 em {
+        margin-top: 8px;
+        padding-top: 8px;
+    }
+    .index-media .g-tit1 {margin-bottom: 20px;}
+    .m-media ul {
+        padding: 0 0 20px;
+    }
+    .m-media li .con {
+        margin: 0 5px;
+    }
+    .m-media .date {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+    .m-media .pic {
+        margin-bottom: 10px;
+    }
+    .m-media h3 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .m-media p {
+        margin-bottom: 10px;
+    }
+    .m-media:after {top: 30px;}
+    .index-media .a-btn01 {bottom: 0;}
+
+    .f-mlist1 {padding: 20px 0 0;}
+    .f-mlist1 h3 {
+        font-size: 18px;
+    }
+    .index-welc .g-tit1 em {
+        font-size: 12px;
+        margin: 8px 0 10px;
+        padding-bottom: 8px;
+    }
+
+    .m-tech .slick-slider {
+        padding: 0 20px;
+    }
+    .m-tech .slick-next, .m-tech .slick-prev{
+        width: 30px;height: 30px;
+    }
+
+    .m-team {
+        margin: 0 5px;
+    }
+    .m-team .item{padding-top: 30px;}
+    .m-team .slick-next, .m-team .slick-prev{width:25px;height: 50px;}
+    .m-team .pic {
+        margin-right: 10px;
+    }
+    .m-team .pic img {
+        width: 138px;
+        height: 152px;
+    }
+    .m-team .txt{font-size: 12px;padding-top: 10px;}
+    .m-team .txt h3 {
+        font-size: 16px;
+    }
+    .m-team .a-btn01 {
+        width: 100px;height: 30px;
+        margin: 10px auto;
+    }
+
+
+    /*******************************
+        -------[=青橙]-------
+    ********************************/
+
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro1{padding: 15px 10px 0;}
+    .m-intro1-1{padding-top: 5px;}
+    .m-intro1 .con1,.m-intro1 .con2{float: none;width: auto;padding-right: 0;}
+    .m-intro1 .con1 .txt{padding-bottom: 0;border-bottom: none;}
+    .m-intro1 .pic{margin-bottom: 5px;}
+    .m-intro1 .pic .img2{right: 0;}
+    .m-intro1 .txt{line-height: 1.8;}
+    .m-intro1 .txt h3{margin-bottom: 2px;font-size: 18px;text-align: center;}
+    .m-intro1 .txt h4{text-align: center;}
+    .m-intro1 .txt p{margin-bottom: 10px;}
+    .m-intro1-1 .pic{float: none;width: auto;margin-right: 0;}
+    .m-culture{padding: 15px 0 5px;}
+    .m-list1{margin: 0;padding-top: 15px;}
+    .m-list1 li{margin-bottom: 10px;}
+    .m-list1 li,.m-intro2 .pic{float: none;width: auto;}
+    .m-list1 .txt{padding: 5px 0;}
+    .m-intro2{height: auto;}
+    .m-intro2 .pic{height: 0;padding-top: 56.53%;}
+    .m-intro2 .txt{float: none;width: auto;padding: 16px 10px 0;}
+    .m-intro2 .txt .g-tit2{margin-bottom: 10px;}
+    .m-intro2 .txt p{margin-bottom: 10px;}
+    .m-advan{padding: 20px 0 10px;}
+    .m-list2{padding-top: 15px;}
+    .m-list2 li{margin-bottom: 10px;padding: 0 20px;width: 50%;}
+    .m-list2 li i::after{bottom: -14px;}
+    .m-list2 .txt{padding-top: 2px;}
+    .m-list2 .txt p{height: 44px;line-height: 22px;}
+
+    
+
+
+
+    /*
+    -----------------[6联系我们]--------------*/
+    .con-ban1{height: 300px;}
+    .con-ban .txt{left: 10px;top: 105px;padding: 30px;line-height: 24px;font-size: 18px;}
+    .con-ban .txt span{font-size: 28px;}
+    .m-contact1{margin-bottom: 0;}
+    .m-contact1 .con{padding-top: 20px;}
+    .m-contact1 .con .pic{display: none;}
+    .m-contact1 .con .txt h3,.m-contact1 .con .txt p{font-size: 14px;}
+    .m-contact1 .con .txt li,.m-contact1 .con .txt li:last-child{margin-bottom: 16px;}
+    .m-map{height: auto;}
+    .m-map .txt{position: static;width: auto;height:auto;padding-top: 15px;}
+    .m-map #map{height: 350px;}
+    #scrollBox{margin-bottom: 10px;padding: 0 10px;}
+    #scrollObj{margin-right: 0;}
+    .m-map .txt ul li{padding: 10px 10px 10px 0;}
+    .m-map .txt li h3{margin-bottom: 8px;}
+    .m-map .txt li p{margin-bottom: 10px;line-height: 20px;}
+    .m-join{padding: 15px 0 20px;}
+    .m-list3{padding: 15px 10px;}
+    .m-list3 li{padding: 0 10px;}
+    .m-pop .con{top: 50%;left: 10px;right: 10px;
+        margin-left: 0;padding: 30px 20px 20px;width: auto;
+        transform:translate(0,-50%);
+        -webkit-transform:translate(0,-50%);
+        -moz-transform:translate(0,-50%);
+        -o-transform:translate(0,-50%);
+        -ms-transform:translate(0,-50%);
+    }
+    .m-pop .con .js-close{top: 10px;right: 12px;}
+    .m-apply1 ul{margin-bottom: 20px;}
+    .m-apply1 li{padding-top: 22px;}
+    .m-apply1 .sub{font-size: 16px;}
+    .m-intro3 .txt{height: 286px;}
+    .m-intro3 .txt p{padding-top: 0;}
+    .m-intro3 .txt p span{float: left;width: 50%;margin-right: 0;margin-bottom: 10px;}
+    .m-intro3 .txt ul{margin-top: -3px;padding-top: 0;padding-right: 20px;}
+    .m-intro3 .a-apply{margin-top: 14px;font-size: 18px;}
+
+    /*******************************
+        -------[=苹果]-------
+    ********************************/
+    .ul-list1 li{width: 50%;}
+    .ul-list1 li .btn{margin: 10px auto 5px;}
+    .ul-list1 li .con{margin:0 5px 10px;}
+    .ul-list1 li h3{margin: 10px 0;}
+    .ul-list1 li h3 a{font-size: 14px; height: 40px; line-height: 40px;}
+    .ul-list1 li h3:after,.ul-list1 li h3:before{top: 39px;}
+    .ul-list1 li p{font-size: 13px; line-height: 22px; height: 44px;}
+    .dl-list li .pic{float: none;}
+    .dl-list li .pic img{margin: 0 auto;}
+    .dl-list li .txt{padding-left: 0; padding-top: 0;font-size: 13px;}
+    .dl-list li p{margin: 10px 0  10px;}
+    .dl-list .con{padding-bottom: 15px;}
+    .dl-list li h3 a{font-size: 14px;height: 30px;line-height: 30px;}
+    .dl-list li .btn{margin: 0px auto;}
+    .ul-list2 h3{font-size: 14px; margin-bottom: 5px; height: 40px; line-height: 39px;}
+    .ul-list2 h3:before{top: 39px;}
+    .ul-list2 h3:after{top: 39px;}
+    .ul-list2 li:hover .con:before{height: calc(100% - 85px);}
+    .dl-list2 .con dt,.dl-list2 dl:nth-child(2n+1) .con dt{float: none;}
+    .dl-list2 .con img{width: 100%;}
+    .dl-list2 dl:nth-child(2n+1) .con dd{float: none; width: 100%;}
+    .dl-list2 .con dd,.dl-list2 dl:nth-child(2n+1) .con dd{padding: 0 10px 10px;}
+
+    .dl-list2 .con h3 a{font-size: 14px; height: 40px; line-height: 40px;}
+    .dl-list2 .con h3 a:before,.dl-list2 .con h3 a:after{top: 39px;}
+    .dl-list2 .con .txt{font-size: 13px; margin-top: 8px; line-height: 22px; height: auto;padding: 0;}
+    .dl-list2 .con{margin: 15px 0 0;}
+
+    .dl-list2 .con:hover h3,.dl-list2 .con:hover .txt{right: 0;}
+
+    .m-partner .slick-next,.m-partner .slick-prev{top: 50%; margin-top: -22px; width: 45px; height: 45px;}
+    .m-partner .item .con{padding: 0 45px;}
+    .m-partner .item .pic{height: 80px;}
+    .m-partner .slide{margin-top: 10px;}
+    .m-partner{margin-top: 20px;}
+    .m-new{padding: 20px 0px;}
+    .m-inviron{margin-bottom: 20px;}
+    .ul-list2 .con{margin: 0 5px;}
+    .ul-list2{margin: 15px 0 0;}
+
+}
+
+/*Common For Max 640*/
+@media only screen and (max-width: 639px) {
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+
+    .g-tit1,.g-tit2 {font-size: 18px;}
+    
+    .m-media:after {
+        display: none;
+    }
+    .m-media li {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+        overflow: hidden;
+    }
+    .m-media p {
+        height: auto;margin-bottom: 5px;
+    }
+    .m-media .a-more{float: right;margin-right: 10px;}
+    .m-media .date {
+        font-size: 18px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        border-bottom: 1px #e8e7e8 solid;
+    }
+    
+    .f-mlist1 li {
+        width: 50%;
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+    
+    .m-team .item {padding: 20px 25px 0;}
+    .m-team .txt {
+        text-align: center;
+    }
+    .m-team .txt span:after {left: 50%;margin-left: -10px;}
+    .m-team .pic {
+        float: none;
+        margin-right: 0;
+    }
+    .m-team .pic img {
+        margin: auto;
+    }
+    .m-team .txt em {display: none;}
+    
+}
+
+/*Common For Max 320*/
+@media only screen and (max-width: 479px) {
+    /*******************************
+        -------[=柚子]-------
+    ********************************/
+    .con-ban{padding-top: 45%;}
+    .con-ban .g-tit2{left: 5%;}
+    .new-info .tit h1{font-size: 16px;}
+    .new-info .tit h1 span{font-size: 14px;}
+    .paddingbox1{padding: 0 5px;}
+    .bigimg .arrow{width: 15px;font-size: 0;}
+    .bigimg .arrow:after{display: none;}
+    .bigimg .arrow span{display: block;font-size: 12px;
+        -o-transition:.3s;
+        -ms-transition:.3s;
+        -moz-transition:.3s;
+        -webkit-transition:.3s;
+        transition:.3s;}
+    .bigimg .arrow:active span{color:#e60012;}
+    .bigimg .prev{left: 10px;text-align: left;}
+    .bigimg .next{right: 10px;text-align: right;}
+    .bigimg .slick-list{width: 80%;}
+    .bigimg{margin-bottom: 20px;}
+    .phon-y-imgbox1 p a{font-size: 14px;}
+    .phon-y-imgbox1 li span{font-size: 12px;}
+    /*******************************
+        -------[=番茄]-------
+    ********************************/
+    #banner .slick-dots li {margin: 0 3px;}
+    #banner .slick-dots li button {
+        width: 8px;
+        height: 8px;
+    }
+
+    .f-mess .text {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+    .f-mess .sub{height: 30px;line-height: 30px;}
+
+    .f-mlist1 li {
+        padding: 0 5px;
+        margin-bottom: 10px;
+    }
+    
+    .m-tech .slick-slider {
+        padding: 0 10px;
+    }
+    .m-tech .slick-next, .m-tech .slick-prev{top: 50%;}
+
+    .f-mlist1 h3 {
+        font-size: 16px;
+    }
+
+    /*******************************
+        -------[=青橙]-------
+    ********************************/
+
+    /*
+    -----------------[2品牌简介]--------------*/
+    .m-intro1 .txt,
+    .m-list1 .pic h3 span,
+    .m-intro2 .txt,
+    .m-list2 .txt p{font-size: 12px;}
+    .m-intro1 .txt h3,
+    .m-list1 .pic h3,
+    .m-list2 .txt h3{font-size: 16px;}
+    .m-intro1 .txt p,
+    .m-intro2 .txt p,
+    .m-list1 li{margin-bottom: 8px;}
+    .m-list1 .txt h3{line-height: 22px;font-size: 16px;}
+    .m-list1 .txt p,.m-list2 .txt p{height: 40px;line-height: 20px;}
+    .m-intro2 .txt,.m-advan,.m-list2{padding-top: 15px;}
+    .m-list2 li{padding: 0 10px;}
+    .m-intro1 .pic .con .img2{height: 35px;}
+    .m-intro1 .video{margin-top: 10px;}
+
+    
+
+    /*
+    -----------------[6联系我们]--------------*/
+    .con-ban1{padding-top: 0;height: 200px;}
+    .con-ban .txt{top: 40px;padding: 15px;font-size: 16px;}
+    .con-ban .txt span{font-size: 24px;}
+    .m-contact1{padding-top: 15px;}
+    .m-contact1 .con{padding-top: 15px;}
+    .m-contact1 .con .txt h3{font-size: 13px;}
+    .m-contact1 .con .txt p{line-height: 20px;font-size: 12px;}
+    .m-contact1 .con .txt li, .m-contact1 .con .txt li:last-child{margin-bottom: 10px;}
+    .m-map .txt{padding-top: 15px;}
+    #scrollBox{height: 370px;margin-top: 15px;}
+    .m-map .txt li h3{margin-bottom: 5px;font-size: 14px;}
+    .m-map .txt li p{margin-bottom: 8px;font-size: 12px;}
+    .m-map .txt li span{font-size: 14px;}
+    .m-list3{padding: 10px 5px;}
+    .m-list3 li{padding: 0 5px;height: 40px;line-height: 40px;font-size: 14px;}
+    .m-list3 li a{font-size: 12px;}
+    .m-list3 li .a-apply{margin-top: 5px;padding-right: 28px;background-size: 20px;background-position: right -31px;font-size: 12px;}
+    .m-list3 li:hover a,.m-list3 li.on a{background-position: right 3px;}
+    .m-pages ul li{margin: 0 2px;}
+    .m-pages li a{width: 32px;height: 32px;line-height: 32px;}
+    .m-apply1 li{padding-top: 18px;}
+    .m-apply1 h3,.m-apply1 li span,.m-apply1 li .upload{font-size: 13px;}
+    .m-apply1 li span em{margin-right: 2px;}
+    .m-apply1 .sub{font-size: 14px;}
+    .m-pop .con{top: 22%;padding: 15px 10px;
+        transform:translate(0,0);
+        -webkit-transform:translate(0,0);
+        -moz-transform:translate(0,0);
+        -o-transform:translate(0,0);
+        -ms-transform:translate(0,0);
+    }
+    .m-pop .con1{padding-top: 45px;padding-left: 15px;}
+    .m-intro3 .txt p{font-size: 12px;}
+    .m-intro3 .txt ul{padding-right: 15px;}
+    .m-intro3 .txt li{line-height: 22px;font-size: 12px;}
+    .m-intro3 .a-apply{margin-top: 10px;font-size: 16px;font-weight: normal;}
+
+    /*******************************
+        -------[=苹果]-------
+    ********************************/
+    .ul-list1 li{width: 100%; float: none;}
+    .dl-list .con{padding: 10px 8px 15px;}
+    .dl-list li p{margin: 5px 0;}
+    .ul-list2 .con{margin: 0 0;}
+    .ul-list2{margin: 0 0 0 4px;}
+    .m-partner .slick-next,.m-partner .slick-prev{top: 50%; margin-top: -15px; width: 30px; height: 30px;}
+    .m-partner .item .con{padding: 0 30px;}
+    .m-partner .item .pic{width: 100%; height: 60px;} 
+
+
+
+
+
+
+
+}
+
+/* --------------------------- 固定屏幕样式 ---------------------------------------- */
+
+/*960*/
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+
+	 
+
+}
+
+
+
+/*768*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+ 
+
+}
+
+
+
+/*480*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
+
+
+
+/*320*/
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+ 
+
+}
+
+
+
+/*240*/
+@media only screen and (max-width: 319px) {
+
+ 
+
+}
